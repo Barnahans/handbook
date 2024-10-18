@@ -1,12 +1,13 @@
-# Ultralytics Mission, Vision, & Values
+# Ultralytics Vision, Mission & Values
+
+## Vision
+
+To create a future where every person, regardless of means or background, has equal access to transformative AI, enabling them to seize opportunities and shape their own path. Aware that our time is finite, we strive to make a lasting impact that benefits future generations.
 
 ## Mission
 
 To move the world forward by first moving ourselves, continuously pushing the boundaries of AI through relentless execution, creating the world's best open-source solutions that benefit everyone equally and empower individuals to improve their lives and the lives of those around them.
 
-## Vision
-
-To create a future where every person, regardless of means or background, has equal access to transformative AI, enabling them to seize opportunities and shape their own path. Aware that our time is finite, we strive to make a lasting impact that benefits future generations.
 
 ## Values
 
